@@ -1,0 +1,17 @@
+title: "Re1ite's Blog"
+subtitle: 学习日志
+description: 记录每天学到的内容、遇到的问题和下一步。
+author: Re1ite
+language: zh-CN
+timezone: Asia/Shanghai
+url: https://re1ite.github.io
+permalink: :year/:month/:day/:title/
+new_post_name: :title.md
+theme: vivia
+
+archive_generator:
+  per_page: 0
+
+feed:
+  type: atom
+  path: atom.xml

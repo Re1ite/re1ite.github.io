@@ -1,0 +1,38 @@
+menu:
+  Home: /
+  Archives: /archives/
+  About: /about/
+rss: /atom.xml
+
+home:
+  style: default
+
+favicon: /images/favicon.png
+banner:
+  enable: true
+  url: /images/banner.jpg
+  position: center 43%
+  onAllPages: false
+
+hue: 250
+avatar: /images/favicon.png
+author: Re1ite
+subtitle: 每日学习记录
+links:
+  - name: GitHub
+    icon: fa-brands fa-github
+    url: https://github.com/Re1ite
+
+sidebar:
+  widgets:
+    normal:
+      - profile
+    sticky: []
+
+comment:
+  valine:
+    enable: false
+  twikoo:
+    enable: false
+  waline:
+    enable: false
