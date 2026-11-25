@@ -1,26 +1,26 @@
-# Re1ite 的学习日志
+# Re1ite's Study Journal
 
-本站使用 [Hexo](https://hexo.io/) 与 [Vivia](https://github.com/saicaca/hexo-theme-vivia)，站点地址为 [re1ite.github.io](https://re1ite.github.io/)。
+The journal is built with [Hexo](https://hexo.io/) and the [Vivia theme](https://github.com/saicaca/hexo-theme-vivia). Visit [re1ite.github.io](https://re1ite.github.io/).
 
-## 写一篇笔记
+## Write a post
 
-在项目目录下运行以下命令，再打开 `source/_posts/` 中生成的 Markdown 文件。也可以复制现有文章，修改文件名、标题、日期和正文。
+Run the following command from the project folder, then open the new Markdown file in `source/_posts/`. You can also copy an existing post and edit its filename, title, date, and body.
 
 ```powershell
-npm run new -- "今天的学习标题"
+npm run new -- "What I Learned Today"
 ```
 
-自带的 `start-here.md` 是写作示例，可以替换或删除。文章里 `<!-- more -->` 之前的字会用在首页摘要中。
+You can replace or remove the example post in `start-here.md`. The text before `<!-- more -->` appears as the excerpt on the homepage.
 
-## 本地预览
+## Preview locally
 
 ```powershell
 npm ci
 npm start
 ```
 
-打开 [localhost:4000](http://localhost:4000/)。横幅图片在 `source/images/banner.jpg`，导航和主题设置在 `_config.vivia.yml`。
+Open [localhost:4000](http://localhost:4000/). The banner is in `source/images/banner.jpg`. Navigation and theme settings are in `_config.vivia.yml`.
 
-## 更新网站
+## Publish an update
 
-向 `main` 分支提交并推送笔记后，GitHub Actions 会生成静态页面并部署。仓库的 **Settings → Pages → Source** 使用 **GitHub Actions**。
+Commit and push your changes to `main`. GitHub Actions builds the static pages and deploys them. **Settings → Pages → Source** is set to **GitHub Actions**.

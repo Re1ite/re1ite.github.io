@@ -1,7 +1,7 @@
 ---
-title: 关于
+title: About
 ---
 
-这里是 Re1ite 的学习日志，用来记录每天学到的内容、遇到的问题和下一步。
+I'm Re1ite. I use this journal to keep track of what I learn each day, the questions I run into, and what I plan to try next.
 
-[GitHub 上的 Re1ite](https://github.com/Re1ite)
+[Re1ite on GitHub](https://github.com/Re1ite)

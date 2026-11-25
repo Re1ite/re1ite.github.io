@@ -1,22 +1,22 @@
 ---
-title: 从一篇学习日志开始
+title: Starting a Study Journal
 date: 2026-11-25 00:00:00
 tags:
-  - 写作示例
+  - Writing Example
 ---
 
-这是一篇可以替换的写作示例。用几句话记下今天学到的内容、遇到的问题和下一步。
+Use this example as a starting point. In a few sentences, write down what you learned today, what gave you trouble, and what you want to try next.
 
 <!-- more -->
 
-## 今天学到了什么
+## What I Learned Today
 
-用自己的话记下一两个要点，附上一个例子或练习结果。
+Summarize one or two ideas in your own words. Include an example or the result of an exercise.
 
-## 哪里还没弄懂
+## What I'm Still Figuring Out
 
-记录一个具体的问题，以及已经尝试过的办法。
+Write down one specific question and what you have already tried.
 
-## 下一步做什么
+## What's Next
 
-留下一件下次坐下来就能开始的小事。
+Pick one small thing you can start the next time you sit down to study.

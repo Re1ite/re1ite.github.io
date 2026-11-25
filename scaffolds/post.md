@@ -4,8 +4,8 @@ date: {{ date }}
 tags:
 ---
 
-## 今天学到了什么
+## What I Learned Today
 
-## 哪里还没弄懂
+## What I'm Still Figuring Out
 
-## 下一步做什么
+## What's Next
