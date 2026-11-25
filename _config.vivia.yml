@@ -27,7 +27,8 @@ sidebar:
   widgets:
     normal:
       - profile
-    sticky: []
+    sticky:
+      - category
 
 comment:
   valine:
